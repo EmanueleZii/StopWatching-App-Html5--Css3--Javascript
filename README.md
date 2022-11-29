@@ -1,6 +1,6 @@
 
 <h1>StopWatching App Html5 - Css3 - Javascript</h1><br>
-<a href="EmanueleZii/StopWatching-App-Html5--Css3--Javascript">Link</a></br>
+<a href="https://emanuelezii.github.io/StopWatching-App-Html5--Css3--Javascript/">Link</a></br>
 <span>Realizzato con Html5 css3 Javascript</span></br>
 <p>
 Descrizione:
